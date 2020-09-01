@@ -22,7 +22,7 @@ int main() {
 			printf("Mialem na mysli liczbe: %d\n", liczba);
 
 		} else {
-			printf("Dupa.\n");
+			printf("Nie zgadles.\n");
 		}
 	}
 }
