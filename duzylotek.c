@@ -97,8 +97,8 @@ int main() {
 
 	toto = 0;
 
-	for (i = 0; i < ileliczb; i++) {
-		toto |= (1U << l[i]);
+	for (int j = 0; j < ileliczb; j++) {
+		toto |= (1U << l[j]);
 	}
 	show_set(toto, "Wylosowane liczby to");
 
