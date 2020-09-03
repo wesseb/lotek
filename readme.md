@@ -5,9 +5,9 @@ Projekt malego lotka (https://python101.readthedocs.io/pl/latest/podstawy/mlotek
 # Duzy lotek z Pythona do C
 
 Projekt duzego lotka (https://python101.readthedocs.io/pl/latest/podstawy/dlotek/index.html) w trakcie przepisywania z Pythona na C
+W projekcie zostala uzyta funkcja sprawdzania zbioru liczb ze strony https://rosettacode.org/wiki/Set#C
 
 # TODO
 
 1. Duzy lotek
   - Stworzenie funkcji ktora losuje liczby i nie duplikuja sie
-  - Stworzenie funkcji rozpoznawania duplikujacych sie typow
